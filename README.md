@@ -1,3 +1,3 @@
-# Thenma
+# Tenma
 
 Website
